@@ -15,7 +15,6 @@
 * [think of learning](think-of-learning.md)
 * [caprice](caprice-1.md)
 * [sum up](sum-up.md)
-* [post](post.md)
 * [vue problem](vue-problem.md)
 * [jd interview](jd-interview.md)
 * [cycle](cycle.md)
